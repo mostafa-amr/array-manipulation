@@ -1,27 +1,4 @@
-// var mostafa=function(){
-//     console.log(most)
-//     var most =10
-//     console.log(most)
-// }
-// mostafa()
-///////////////////////destructive///////////////////////////
-// const myobj ={
-//     ID:5,
-//     Name:'mostafa',
-//     Intake:42
-// };
-// let {ID,Intake,Name}=myobj;
-// console.log()
-//////////////////////////////////////////////
 
-// let ID,Intake,Name;
-// ({ID,Intake,Name}=myobj);
-// console.log()
-//////////////////////////////////////////
-
-// let MYID,WowIntake,HolaName;
-// ({ID:MYID,Intake:WowIntake,Name:HolaName}=myobj);
-// console.log()
 
 
 
